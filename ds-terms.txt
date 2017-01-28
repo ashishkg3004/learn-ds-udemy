@@ -1,0 +1,36 @@
+Terms:
+======
+Liners        : The operation will run the no of elements in the array.
+Constant Time : The operation will run only once regardless of size.
+Quadratic	  : The operation will run the size of the array squared times.
+
+Growth rates:
+=============
+Linear    = Single Loop.
+Quadratic = Loop inside of loop. [Nested loop]
+
+Asymptotic Notation:
+====================
+To communicate the efficiency of an algorithm we use some shorthand notation called Asymptotic notation. 
+This shows how well the algorithm scales. It depends upon n(size of the input).
+
+Linear Growth Rate      : O(n)		[Single Loop]
+Quadratic Growth Rate   : O(n^2)	[Loop inside Loop]
+Constant Growth Rate    : O(1)		[Single Time]
+Cubic Growth Rate 	    : O(n^3)    [Loop inside loop inside loop]
+Exponential Growth Rate : O(n^n)    [ex: Matrix Supply Chain Multiplication]
+
+The term 'Complexities' is often used for Growth Rate or efficiency of an algorithm.
+Refer the diagram for Algorithm Complexities. (algo-complexeties.jpg)
+
+
+
+
+
+
+
+
+
+
+
+ 
