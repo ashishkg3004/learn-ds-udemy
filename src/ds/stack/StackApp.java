@@ -14,7 +14,7 @@ public class StackApp {
 	public static String reverseString(String str) {
 
 		String reverse = "";
-		Stack reverseStack = new Stack(6);
+		Stack reverseStack = new Stack(str.length());  // make the stack size equal to the String length.
 
 		for (int i = 0; i < str.length(); i++) {
 			reverseStack.push(str.charAt(i));
