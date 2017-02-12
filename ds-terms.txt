@@ -35,10 +35,11 @@ Binary search: O(log n) [Divide and conquer. Best search algorithm]
 
 Sort:
 -----
-Insertion sort : O(n2)
-Selection sort : O(n2)
-Merge sort     : O(n log n) [Both worst and best case. Better than selection and insertion sort]
-
+Insertion sort 	   : O(n2)
+Selection sort 	   : O(n2)
+Merge sort     	   : O(n log n) [Both worst and best case. Better than selection and insertion sort]
+Quick sort average : O(n log n) [Same as Merge Sort]. Worst-case: O(n^2)
+	
 
 
 
