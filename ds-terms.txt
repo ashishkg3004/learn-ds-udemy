@@ -23,14 +23,24 @@ Exponential Growth Rate : O(n^n)    [ex: Matrix Supply Chain Multiplication]
 The term 'Complexities' is often used for Growth Rate or efficiency of an algorithm.
 Refer the diagram for Algorithm Complexities. (algo-complexeties.jpg)
 
+Complexities of some Algorithms:
+================================
+
+The complexities is measured in terms of worst-case scenario.
+
+Search:
+-------
+Linear search: O(n)
+Binary search: O(log n) [Divide and conquer. Best search algorithm]
+
+Sort:
+-----
+Insertion sort : O(n2)
+Selection sort : O(n2)
+Merge sort     : O(n log n) [Both worst and best case. Better than selection and insertion sort]
 
 
 
 
 
 
-
-
-
-
- 
